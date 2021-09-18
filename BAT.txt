@@ -22,6 +22,8 @@ goto end
  
 :UNBAT
  
+::echo Enter Password to UNBAT
+
 set/p "pass=>"
  
 if NOT %pass%== Your_Password goto end
