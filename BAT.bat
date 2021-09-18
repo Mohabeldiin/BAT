@@ -24,7 +24,7 @@ goto end
  
 set/p "pass=>"
  
-if NOT %pass%==3484 goto end
+if NOT %pass%== Your_Password goto end
  
 attrib -h -s "Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}"
  
