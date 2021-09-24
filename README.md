@@ -1,5 +1,5 @@
 # BAT
-BAT is a Bash Script to Hide Directories
+BAT is a Bash Script to make a vault Directory
 
 Before you can use the Script you have to Set your Password in the Script inline: `29`
 
