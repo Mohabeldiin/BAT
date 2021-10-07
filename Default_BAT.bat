@@ -22,11 +22,11 @@ goto end
  
 :UNBAT
  
-::echo Enter Password to UNBAT
+echo Enter Password to UNBAT
 
 set/p "pass=>"
  
-if NOT %pass%== Your_Password goto end
+if NOT %pass%== 123 goto end
  
 attrib -h -s "Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}"
  
