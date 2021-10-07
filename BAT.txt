@@ -22,7 +22,7 @@ goto end
  
 :UNBAT
  
-::echo Enter Password to UNBAT
+:: echo Enter Password to UNBAT
 
 set/p "pass=>"
  
